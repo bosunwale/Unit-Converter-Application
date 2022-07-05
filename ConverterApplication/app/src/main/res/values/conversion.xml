@@ -3,11 +3,13 @@
     <string-array name="conversion_unit">
         <item>Kilometer</item>
         <item>Meter</item>
-        <item>Inch</item>
-        <item>Foot</item>
+        <item>Inche(s)</item>
+        <item>Feet</item>
         <item>Celcius</item>
         <item>Farenheit</item>
         <item>Centimeter</item>
         <item>Millimeter</item>
+        <item>Kilograms</item>
+        <item>Pounds</item>
     </string-array>
 </resources>

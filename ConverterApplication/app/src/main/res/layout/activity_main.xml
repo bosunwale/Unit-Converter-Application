@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Spinner
-        android:id="@+id/spinnerTo"
+        android:id="@+id/spinnerFrom"
         android:layout_width="366dp"
         android:layout_height="51dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -18,7 +18,7 @@
         app:layout_constraintVertical_bias="0.07" />
 
     <Spinner
-        android:id="@+id/spinnerFrom"
+        android:id="@+id/spinnerTo"
         android:layout_width="365dp"
         android:layout_height="58dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -42,7 +42,7 @@
         app:layout_constraintVertical_bias="0.358" />
 
     <EditText
-        android:id="@+id/editTextInitalValue"
+        android:id="@+id/editTextInitialValue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -56,7 +56,7 @@
         app:layout_constraintVertical_bias="0.223" />
 
     <EditText
-        android:id="@+id/editTextFInalValue"
+        android:id="@+id/editTextFinalValue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
