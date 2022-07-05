@@ -7,7 +7,7 @@ This is an android application that handles six unit conversions. However, vario
 - Inche to Feet
 - Celsius to Ferenheit
 - Centimers to Inches
-- Inches to Meter
+- Pounds to Kilograms
 
 ## Getting Started
 1. Donload the app
