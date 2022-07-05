@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversion_unit">
+        <item>Kilometer</item>
+        <item>Meter</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Celcius</item>
+        <item>Farenheit</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+    </string-array>
+</resources>
