@@ -22,7 +22,10 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         editTextValueTo = findViewById(R.id.editTextInitialValue);
         editTextValueFrom = findViewById(R.id.editTextFinalValue);
 
-        //This is where the display of the items is handled.
+        /*
+        The code here handles the display of the items in the
+        conversion.xml file
+         */
         spinnerConversionFrom = findViewById(R.id.spinnerFrom);
         spinnerConversionTo = findViewById(R.id.spinnerTo);
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.conversion_unit, android.R.layout.simple_spinner_item);
